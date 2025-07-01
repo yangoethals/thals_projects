@@ -1,1 +1,1 @@
-# thals_projects
+# thals_projects/ethical hacking
